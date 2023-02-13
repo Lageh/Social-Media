@@ -13,7 +13,3 @@ form.addEventListener("submit", (event) => {
     password.classList.remove("shake");
   }, 1000);
 });
-
-function acao() {
-  alert("Login efetuado com sucesso!");
-}
